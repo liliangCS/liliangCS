@@ -1,1 +1,2 @@
-<video src="https://liliangcs.github.io/yhdzz-website/videos/story.mp4" autoplay muted></video>
+<img src="https://liliangcs.github.io/yhdzz-website/images/introduction_bg1.jpg" />
+<img src="https://liliangcs.github.io/yhdzz-website/images/introduction_bg2.jpg" />
