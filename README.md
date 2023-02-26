@@ -1,1 +1,1 @@
-<h1>心有猛虎，细嗅蔷薇。<h1>
+<video src="https://liliangcs.github.io/yhdzz-website/videos/story.mp4" autoplay muted></video>
